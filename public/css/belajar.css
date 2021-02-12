@@ -1,0 +1,26 @@
+header {
+    background-image: linear-gradient(to right, #a25b5b, #692e4c);
+}
+
+header h1{
+    color: white;
+}
+.font-color-white{
+    color: white;
+}
+
+.container-b{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+nav > a {
+    padding-left: 20px;
+    padding-right: 20px;
+    text-transform: uppercase;
+    color: rgb(255,255,255, 0.5);
+}
+
+a:hover{
+    text-decoration: underline;
+}
